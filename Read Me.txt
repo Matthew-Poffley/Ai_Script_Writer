@@ -1,0 +1,13 @@
+Read Me:
+
+To use this little Ai, everything can 
+be run and edited from the Main.py.
+Just make sure all the files are saved
+in the same folder (or change import tag).
+
+The larger the .txt file the better the
+results are. Furthermore, the more consistent
+the layout of the text the better the 
+result. The loss monitor should be under 1
+for the best results, anything above 3 is
+usually jibberish.
